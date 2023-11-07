@@ -31,8 +31,7 @@ class Manager extends Employee {
 
   @override
   void printDataEmploye() {
-    print("Employee constructor $name, $age, $address, $motherName, 3.000.000");
-    super.printDataEmploye();
+    print("ok");
   }
 }
 
